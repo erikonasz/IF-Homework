@@ -7,8 +7,8 @@
     },
     "body": {
         "data": {
-            "sessionId": "28E8975759D248E3B49E813D0CC7FC41",
-            "availabilityId": "493765039",
+            "sessionId": "27677B016E6D4412951FF61BDF57FA0F",
+            "availabilityId": "493765096",
             "locale": "en",
             "marketCode": "ES",
             "swirt": true,
@@ -27,11 +27,11 @@
             "totalAvailabilities": [
                 {
                     "recommendationId": 1,
-                    "total": 701.13
+                    "total": 858.13
                 },
                 {
                     "recommendationId": 2,
-                    "total": 2545.13
+                    "total": 2599.13
                 }
             ],
             "journeys": [
@@ -51,8 +51,8 @@
                     "importTaxAdl": 161.07,
                     "importTaxChd": 0.0,
                     "importTaxInf": 0.0,
-                    "classCode": "R",
-                    "farebasisCode": "RLRTES",
+                    "classCode": "S",
+                    "farebasisCode": "SLRTES",
                     "promotionLabel": null,
                     "flights": [
                         {
@@ -73,10 +73,10 @@
                                 "zone": "AFR",
                                 "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
                             },
-                            "dateDeparture": "2024/02/15 14:00",
-                            "dateArrival": "2024/02/15 23:40",
-                            "gmtDateDeparture": "2024/02/15 13:00",
-                            "gmtDateArrival": "2024/02/15 19:40",
+                            "dateDeparture": "2024/03/03 14:00",
+                            "dateArrival": "2024/03/03 23:40",
+                            "gmtDateDeparture": "2024/03/03 13:00",
+                            "gmtDateArrival": "2024/03/03 19:40",
                             "companyCode": "UX",
                             "operator": "ETIHAD AIRLINES",
                             "flote": {
@@ -141,8 +141,8 @@
                     "importTaxAdl": 164.06,
                     "importTaxChd": 0.0,
                     "importTaxInf": 0.0,
-                    "classCode": "U",
-                    "farebasisCode": "ULRTES",
+                    "classCode": "H",
+                    "farebasisCode": "HLRTES",
                     "promotionLabel": null,
                     "flights": [
                         {
@@ -163,10 +163,10 @@
                                 "zone": "NAC",
                                 "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
                             },
-                            "dateDeparture": "2024/02/29 07:30",
-                            "dateArrival": "2024/02/29 12:30",
-                            "gmtDateDeparture": "2024/02/29 03:30",
-                            "gmtDateArrival": "2024/02/29 11:30",
+                            "dateDeparture": "2024/03/29 07:30",
+                            "dateArrival": "2024/03/29 12:30",
+                            "gmtDateDeparture": "2024/03/29 03:30",
+                            "gmtDateArrival": "2024/03/29 11:30",
                             "companyCode": "UX",
                             "operator": "ETIHAD AIRLINES",
                             "flote": {
@@ -219,7 +219,7 @@
                     "recommendationId": 2,
                     "identity": 0,
                     "direction": "I",
-                    "cabinClass": "BUS",
+                    "cabinClass": "TUR",
                     "importChild": 0.0,
                     "importInfant": 0.0,
                     "importAdultResident": 0,
@@ -228,11 +228,11 @@
                     "discountAdultResident": 0,
                     "discountChildResident": 0,
                     "discountInfantResident": 0,
-                    "importTaxAdl": 195.07,
+                    "importTaxAdl": 161.07,
                     "importTaxChd": 0.0,
                     "importTaxInf": 0.0,
-                    "classCode": "C",
-                    "farebasisCode": "CRTES",
+                    "classCode": "S",
+                    "farebasisCode": "SLRTES",
                     "promotionLabel": null,
                     "flights": [
                         {
@@ -253,10 +253,10 @@
                                 "zone": "AFR",
                                 "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
                             },
-                            "dateDeparture": "2024/02/15 14:00",
-                            "dateArrival": "2024/02/15 23:40",
-                            "gmtDateDeparture": "2024/02/15 13:00",
-                            "gmtDateArrival": "2024/02/15 19:40",
+                            "dateDeparture": "2024/03/03 14:00",
+                            "dateArrival": "2024/03/03 23:40",
+                            "gmtDateDeparture": "2024/03/03 13:00",
+                            "gmtDateArrival": "2024/03/03 19:40",
                             "companyCode": "UX",
                             "operator": "ETIHAD AIRLINES",
                             "flote": {
@@ -269,6 +269,96 @@
                             },
                             "terminalDeparture": "4",
                             "terminalArrival": "3",
+                            "cabinClass": {
+                                "code": "TUR",
+                                "description": "Economy"
+                            }
+                        }
+                    ],
+                    "businessJourneys": [],
+                    "passengersAvailable": 9,
+                    "fareFamily": {
+                        "code": "ECONOMY",
+                        "description": "STANDARD"
+                    },
+                    "franchiseInformation": {
+                        "franchise": 1,
+                        "baggageWeight": {
+                            "amount": 23.0,
+                            "measurementType": {
+                                "code": "KG",
+                                "description": "kg"
+                            }
+                        },
+                        "hiringSupported": true,
+                        "description": "The checked baggage in hold allowed by your fare is 1 piece(s) of 23 kg"
+                    },
+                    "cabinInformation": {
+                        "number": 1,
+                        "baggageWeight": {
+                            "amount": 10.0,
+                            "measurementType": {
+                                "code": "KG",
+                                "description": "kg"
+                            }
+                        },
+                        "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  10 kg"
+                    }
+                },
+                {
+                    "recommendationId": 2,
+                    "identity": 0,
+                    "direction": "V",
+                    "cabinClass": "BUS",
+                    "importChild": 0.0,
+                    "importInfant": 0.0,
+                    "importAdultResident": 0,
+                    "importChildResident": 0,
+                    "importInfantResident": 0,
+                    "discountAdultResident": 0,
+                    "discountChildResident": 0,
+                    "discountInfantResident": 0,
+                    "importTaxAdl": 198.06,
+                    "importTaxChd": 0.0,
+                    "importTaxInf": 0.0,
+                    "classCode": "C",
+                    "farebasisCode": "CRTES",
+                    "promotionLabel": null,
+                    "flights": [
+                        {
+                            "number": "2702",
+                            "airportDeparture": {
+                                "code": "AUH",
+                                "description": "Abu Dhabi",
+                                "resident": false,
+                                "type": "AIR",
+                                "zone": "AFR",
+                                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
+                            },
+                            "airportArrival": {
+                                "code": "MAD",
+                                "description": "Madrid",
+                                "resident": false,
+                                "type": "AIR",
+                                "zone": "NAC",
+                                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
+                            },
+                            "dateDeparture": "2024/03/29 07:30",
+                            "dateArrival": "2024/03/29 12:30",
+                            "gmtDateDeparture": "2024/03/29 03:30",
+                            "gmtDateArrival": "2024/03/29 11:30",
+                            "companyCode": "UX",
+                            "operator": "ETIHAD AIRLINES",
+                            "flote": {
+                                "code": "789",
+                                "description": "789"
+                            },
+                            "technicalStop": {
+                                "numberStops": 0,
+                                "airportStops": []
+                            },
+                            "terminalDeparture": "3",
+                            "terminalArrival": "4",
                             "cabinClass": {
                                 "code": "BUS",
                                 "description": "Business"
@@ -303,96 +393,6 @@
                             }
                         },
                         "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  14 kg"
-                    }
-                },
-                {
-                    "recommendationId": 2,
-                    "identity": 0,
-                    "direction": "V",
-                    "cabinClass": "TUR",
-                    "importChild": 0.0,
-                    "importInfant": 0.0,
-                    "importAdultResident": 0,
-                    "importChildResident": 0,
-                    "importInfantResident": 0,
-                    "discountAdultResident": 0,
-                    "discountChildResident": 0,
-                    "discountInfantResident": 0,
-                    "importTaxAdl": 164.06,
-                    "importTaxChd": 0.0,
-                    "importTaxInf": 0.0,
-                    "classCode": "U",
-                    "farebasisCode": "ULRTES",
-                    "promotionLabel": null,
-                    "flights": [
-                        {
-                            "number": "2702",
-                            "airportDeparture": {
-                                "code": "AUH",
-                                "description": "Abu Dhabi",
-                                "resident": false,
-                                "type": "AIR",
-                                "zone": "AFR",
-                                "image": "https://www.aireuropa.com/img_mob/airports/AUH.jpg"
-                            },
-                            "airportArrival": {
-                                "code": "MAD",
-                                "description": "Madrid",
-                                "resident": false,
-                                "type": "AIR",
-                                "zone": "NAC",
-                                "image": "https://www.aireuropa.com/img_mob/airports/MAD.jpg"
-                            },
-                            "dateDeparture": "2024/02/29 07:30",
-                            "dateArrival": "2024/02/29 12:30",
-                            "gmtDateDeparture": "2024/02/29 03:30",
-                            "gmtDateArrival": "2024/02/29 11:30",
-                            "companyCode": "UX",
-                            "operator": "ETIHAD AIRLINES",
-                            "flote": {
-                                "code": "789",
-                                "description": "789"
-                            },
-                            "technicalStop": {
-                                "numberStops": 0,
-                                "airportStops": []
-                            },
-                            "terminalDeparture": "3",
-                            "terminalArrival": "4",
-                            "cabinClass": {
-                                "code": "TUR",
-                                "description": "Economy"
-                            }
-                        }
-                    ],
-                    "businessJourneys": [],
-                    "passengersAvailable": 9,
-                    "fareFamily": {
-                        "code": "ECONOMY",
-                        "description": "STANDARD"
-                    },
-                    "franchiseInformation": {
-                        "franchise": 1,
-                        "baggageWeight": {
-                            "amount": 23.0,
-                            "measurementType": {
-                                "code": "KG",
-                                "description": "kg"
-                            }
-                        },
-                        "hiringSupported": true,
-                        "description": "The checked baggage in hold allowed by your fare is 1 piece(s) of 23 kg"
-                    },
-                    "cabinInformation": {
-                        "number": 1,
-                        "baggageWeight": {
-                            "amount": 10.0,
-                            "measurementType": {
-                                "code": "KG",
-                                "description": "kg"
-                            }
-                        },
-                        "description": "Hand Baggage in cabin allowed by your fare is 1 piece(s) of  10 kg"
                     }
                 }
             ],
