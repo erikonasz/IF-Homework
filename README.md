@@ -1,7 +1,6 @@
 
 # Homework tasks
 
-* Tasks were completed with the data being gathered and saved as JSON/CSV files.
 * To see completed tasks, open main.ipynb file (notebook)
 
 # How to Run the Code
